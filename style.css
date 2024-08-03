@@ -1,0 +1,24 @@
+.div1 button {
+  background-color: aqua;
+  color: black;
+}
+.div2 button {
+  background-color: aqua;
+  color: black;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+h2 {
+  color: rgb(0, 153, 255);
+}
+.div1 button:hover {
+  background-color: greenyellow;
+}
+.div1 a {
+  text-decoration: none;
+}
+.div2 button:hover {
+  background-color: violet;
+}
